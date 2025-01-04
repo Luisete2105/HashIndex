@@ -786,6 +786,7 @@ fbe364,spawnprotectiontimems
 65be9d0,target_entity
 65c5701,getmovespeedscale
 661f78b,distsqrd
+6648858,b_camo
 6655925,ambient_group3_anim3
 6659cc8,notificationtype
 66715b4,script_notify
@@ -2095,6 +2096,7 @@ fffbd7e,deadshot_code_callback_func
 1115eaba,getnodeforward
 11162f4d,killcamstarttime
 1117d44b,fradius
+1118b447,parm
 111ae6ad,setupzones
 111b688c,nearbyspawns
 111e8f86,setup_nodes
@@ -2848,6 +2850,7 @@ fffbd7e,deadshot_code_callback_func
 17198dd8,covertransangles
 171ab59a,vec1
 171d52b4,challengeindex
+171f5aa7,s_anim_pos
 171faf49,waitcondition
 1720e41f,bestkdratio
 17210226,old_position
@@ -3019,6 +3022,7 @@ fffbd7e,deadshot_code_callback_func
 189fbaf3,n_time_played
 18a28f01,barelem
 18a2937f,debug_color_huds
+18a4d3ec,beam_dir
 18a99aaa,constprefix
 18afe347,debug_draw_approximate_robot_path_to_goal
 18b023e5,ranktable
@@ -5178,6 +5182,7 @@ fffbd7e,deadshot_code_callback_func
 29ff364e,friendly_fire_think
 2a02dcbd,createnapalmrewindwatcher
 2a02df96,upper_bound
+2a04238a,a_team
 2a04a602,field_toggle_lights_group_handler3
 2a04fc28,devgui_health
 2a082815,username
@@ -5741,6 +5746,7 @@ fffbd7e,deadshot_code_callback_func
 2eb5e8b4,shoutcaster
 2eb643bd,tacinsertboost
 2eb65475,_getadjusttocoverrotation
+2eb71ab0,icon_ent
 2eb85fc7,debugposinternal
 2ebd5084,lerpfloat
 2ec08310,xp_revive_once_per_round
@@ -5838,6 +5844,7 @@ fffbd7e,deadshot_code_callback_func
 2fa0b8e9,crush_enemy_challenge
 2fa16464,player_given
 2fa3eb39,firetype
+2fa4bcd3,b_team
 2fa7d0ca,firstpass
 2fa9fe42,ai_puppeteer_render_node
 2fab1fd6,fix_tu6_ar_garand
@@ -7186,6 +7193,7 @@ fffbd7e,deadshot_code_callback_func
 3aa9c6b0,v_player_pos
 3aae4518,skeleton
 3aaf60e9,behaviortreenetworkutility
+3ab04d1b,t_room
 3ab0cd26,show_firesale_box
 3ab14d53,revive_func
 3ab1b54d,zombiemode_offhand_weapon_give_override
@@ -8466,6 +8474,7 @@ fffbd7e,deadshot_code_callback_func
 44f45099,target_scaleminmaxradius
 44f4c5cc,abilities_devgui_power_toggle_auto_fill_think
 44f50e0b,giveachievement_wrapper
+44f606ad,b_from_devgui
 44f78ab6,freerun
 44f858d8,zm_genesis_wisps
 44fb8955,pers
@@ -11394,6 +11403,7 @@ fffbd7e,deadshot_code_callback_func
 5cdf8f76,figure_out_attacker
 5ce49d35,isplaying
 5ce6d9e8,n_clip_current
+5cea3801,a_hero
 5ced335b,get_item_name
 5cee117d,onscoreclosemusic
 5cefaf77,water_motes
@@ -11550,6 +11560,7 @@ fffbd7e,deadshot_code_callback_func
 5e17f4ee,parentspeed
 5e189eb4,vehicle_unloadwhenattacked
 5e1abb4b,flags_set
+5e1c6b8d,_sam
 5e20d7b6,power_off
 5e263f1a,update_challenge_3_9
 5e2a29c1,swayrig
@@ -14988,6 +14999,7 @@ fffbd7e,deadshot_code_callback_func
 7b977278,reset_damage_state
 7b98b639,mdl_rune
 7b9afddb,legacy_cymbal_monkey
+7b9bb893,zoom_pos
 7b9c4296,primarytarget
 7b9c6516,killed_count
 7b9dcc8d,min_vol
@@ -15739,6 +15751,7 @@ fffbd7e,deadshot_code_callback_func
 818de253,isweaponviewonlylinked
 81905577,str_curr_anim
 8192db4b,waitrespawnorsafespawnbutton
+8195a6f6,main_dir
 8195cb32,devgui_spawn_index
 8197aac2,fps
 819d026f,fizzle
@@ -15987,6 +16000,7 @@ fffbd7e,deadshot_code_callback_func
 836dd938,deactivateclientradiantexploder
 836df595,failed_attack_spot_spawn_origin
 836f2873,mdl_portal
+836f39e7,moon_devgui
 836f983a,movetooriginovertime
 83701bb1,b_timeout
 83731a3f,on_connecting
@@ -17021,6 +17035,7 @@ fffbd7e,deadshot_code_callback_func
 8c02d299,rootweapon
 8c04dad1,sessionadverthud_1a_text
 8c05e725,mainanim
+8c08a132,m_sign
 8c0b3727,default_land_function
 8c0ed5db,oldteam
 8c122bc3,switch_to_crush_asm
@@ -22705,6 +22720,7 @@ ba7df677,s_pipe
 ba7e0f70,helicopter_gunner
 ba7e4238,trackproximitygrenadesonowner
 ba7f003e,fadeovertime
+ba7fc287,v_open_pos
 ba80775a,callback_vehiclekilled
 ba85308b,should_zigzag
 ba8ab8d3,mechzshouldshootflame
@@ -24536,6 +24552,7 @@ c9a5a6da,is_in_process_of_zombify
 c9ada02d,explodeoncontact
 c9af9d76,chase_train_rumble
 c9b31bbb,move_away_points
+c9b3ba45,zombie_burn
 c9b72af8,e_original_next_target
 c9b9a8df,include_zombie_weapon
 c9bca7d3,teamkillsthisround
@@ -25361,6 +25378,7 @@ d02d5c2a,zone_adjacencies_validation
 d02dba1a,hide_hint_text_listener
 d03196a3,do_not_update_death_count
 d0331995,fontpulse
+d034d3c3,s_slam_pos
 d035b25a,setupmissilecompassicons
 d0362086,lastcenter
 d03a1b48,pick_new_movement_point
@@ -26274,6 +26292,7 @@ d7cc60fb,weaponcyclingenabled
 d7d69a6c,robotisatcovercondition
 d7d6efad,attach_weapon
 d7d82fd3,craft_failed
+d7d92d53,w_sten
 d7d9d1b0,s_move
 d7ddcf6d,getweaponclass
 d7ded90e,p4door_r
@@ -29035,6 +29054,7 @@ ee3f924d,getthirdpersonheightoffsetforsize
 ee40077d,spawn_pos
 ee40cec9,locking_on_cleared
 ee46fe7d,anti_progress
+ee4758e4,v_open
 ee477153,player_portal_complete
 ee496415,spawned_spike_charge
 ee4b17bf,on_bot_connect

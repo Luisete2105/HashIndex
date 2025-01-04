@@ -3093,6 +3093,7 @@ a4afcf8a424399e,checkid
 a4bdc007cef1962,bot_get_active_tactical_goals_of_type
 a4d320b11f5dcbd,courtyard_retreat_catchup
 a4dee05e95f421f,watchforhelitriptimeout
+a4dfbcc5f624df9,hero
 a4e5fbef083c4ff,iconposition
 a4f2e5aac86b9ee,missiledrone_iskillstreakweapon
 a4fdc656dca8008,fx_allowed
@@ -8179,6 +8180,7 @@ ffe4f43bcaae5bd,stealth_noteworthy_min_delay
 1b676e77b43546a0,importancediff
 1b67c55a5634f958,newdot
 1b67e457ede92dc0,ping_loot_confirm_weapon
+1b68ba89f80f2b5c,v_item_pos
 1b68c03f43020a0a,get_spawn_scoring_type
 1b68daa4f99f2793,create_script_wait_for_flags
 1b6a688343b6e6bf,enemygunship_watchweaponimpact
@@ -16603,6 +16605,7 @@ ffe4f43bcaae5bd,stealth_noteworthy_min_delay
 36fb658dd865a01a,validatespawn
 36fc2e978e3553e4,getnextzone
 36fd4f80d95cd0c4,isvalidplayerbr
+36fedcca9fa6b8bb,w_main_weapon
 36ff66c0883b5aa6,applydelay
 36ffcee6c004b3a4,found_type
 3700d31b83a4a4ce,totalweaponxpearned
@@ -23333,6 +23336,7 @@ ffe4f43bcaae5bd,stealth_noteworthy_min_delay
 4c7465b9b521f0d8,get_mount_activation_mode
 4c7588aa6aa2fec9,weaponpassivesinit
 4c7616ec669301ea,onplayerkillednew
+4c76655da6f30aa8,palm_pos
 4c77014045a2a7e4,event_list
 4c7701e97b82f2af,objective_unpin_team
 4c770a9a4ad7659c,scripts/common/callbacks.gsc
@@ -47533,6 +47537,7 @@ ffe4f43bcaae5bd,stealth_noteworthy_min_delay
 9badb8fd1eb872c2,revive_vo_time
 9bae85643e7d1aa2,last_fired
 9bb06ebf159e6417,canshowsplash
+9bb1020c719e33b6,debug_anim_ent
 9bb18e1260dfb929,bot_control_odin_support
 9bb1c2418710bc05,br_cq_element
 9bb266f7bf9b6cbb,neutralpoints
@@ -49241,6 +49246,7 @@ a15f69588f8336ca,isinmarkingrange
 a1601fcd4d58328c,wp_watchdisownaction
 a16091024e915184,scripts/mp/maps/mp_jup_derail/mp_jup_derail_fx
 a160eb484ac5e768,scoreteam
+a162751895346133,v_open_pos
 a16464a95a1c6058,pauseeffect
 a165f8affea867ac,scripted_node
 a166868464f52912,digit
@@ -58980,6 +58986,7 @@ c16a7ccc80e7d63f,cp_kidnappers_active
 c16bc67bd886698f,velocity_right
 c16be775c326ce21,gsc_spawned
 c16c0a8e68507f2f,guard_weapon
+c16e2df6644cd964,tran
 c16e33f6644ce696,trap
 c17017d3088cea72,vehicle_occupancy_killoccupants
 c1715b29f3627fe9,skit_fx
@@ -60194,6 +60201,7 @@ c5732e73897e110b,rankxp
 c5736db4f836f080,get_other_active_zone
 c57386fe1688f8ab,successcondition_enemykills
 c573f0eb10e1f422,donotetracksfortimeout
+c57458c57cd75773,rmin
 c5746701a936226c,playerweight
 c575ac7fd41d6a6b,shot_array
 c5761ee14bce3447,setdof_gunship_zoom
@@ -61948,6 +61956,7 @@ cb793e1fa62ea1ed,distsqtodefenderfalgstart
 cb794eb7a3de6a82,original_damage
 cb7a389271b88bfd,showerrormessage
 cb7a3ce72a3723f5,thermite_watchstuck
+cb7c0d9edaf5b753,parm
 cb7c249edaf5e9e8,part
 cb7c277b050205dd,on_the_same_team
 cb7cbe27ebcd9c7c,claymore_forceclampangles
@@ -62358,6 +62367,7 @@ ccc0eead24cc5730,canreusebox
 ccc14a44e1811cb1,watchlaststandend
 ccc2a4408a2f4ff0,bot_add_ambush_time_delayed
 ccc31373d7518d32,get_event_location
+ccc321cb92e1d1d0,mdl_open_clip
 ccc472a24c7989f8,attached_pents
 ccc604ddd109f593,script_nexthuntpos
 ccc62bce6bd0f2c2,nogrenadereturnthrow

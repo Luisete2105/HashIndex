@@ -415,6 +415,7 @@ fef09e,specificfromcolor
 34b6d9f,n_perks
 34d8879,istouching
 3503303,tracepoints
+352058a,parm
 353427b,kill_while_contesting
 353a193,destructbundle
 3570b1c,bheld
@@ -1774,6 +1775,7 @@ dab820f,gibcallbacks
 dad8c7d,event_func
 dadece4,isactor
 db4f75e,zombie_dog_devgui
+db5e020,mdl_sign
 db6547d,centerstr
 db692b4,missiletarget_handleincomingmissile
 db844d3,clientfield_code_callback
@@ -3407,6 +3409,7 @@ ffe2f24,minigame_on
 19e5d156,killerinvictimfov
 19e61eeb,linknames
 19e64dc1,get_colorcodes_and_activate_trigger
+19e9b9d0,mdl_from
 19e9ea88,b_failed
 19edd9b9,perkfactor
 19f0d286,waittill_ai_group_count
@@ -3546,6 +3549,7 @@ ffe2f24,minigame_on
 1b2e063b,precache_mp_custom_leaderboards
 1b30319a,checkallowspectating
 1b30414e,b_has_weapon
+1b32f535,t_open
 1b332c04,s_watcher
 1b34eaf3,a_gametypes
 1b35cac9,rewindwatcherarray
@@ -5688,6 +5692,7 @@ ffe2f24,minigame_on
 2b43b7a2,flourish_count
 2b446a2b,update_settings
 2b46ee62,validate_poi_attractors
+2b478463,debug_room
 2b486dc5,use_grenade_special_long_bookmark
 2b4ae764,ammocount
 2b4d7b66,equip_weapon
@@ -10610,6 +10615,7 @@ ffe2f24,minigame_on
 50788327,default_ononeleftevent
 507ae585,setbrake
 507c973f,path_index
+507cd99f,s_abom
 507d379f,trigger_length
 507e5a4e,get_packicon_offset
 50830410,saved_script_forcegoal
@@ -12573,6 +12579,7 @@ ffe2f24,minigame_on
 5f3b3620,_included_equipment
 5f3cd7d1,target_setallowhighsteering
 5f3dd0f1,bullet_attack
+5f3e2817,rmin
 5f3f2402,powerup
 5f3fa9d1,addguntoprogression
 5f3ff634,field_toggle_lights_group_handler2
@@ -14237,6 +14244,7 @@ ffe2f24,minigame_on
 6bc3e99a,recordroundendstats
 6bc593e3,objective_setposition
 6bc8a5ec,alias_override
+6bca202c,a_echo
 6bca42f5,playcontrail
 6bcbd988,red
 6bcc2b9b,isnear
@@ -15073,6 +15081,7 @@ ffe2f24,minigame_on
 71f9d943,str_note
 71fc0676,playerdistsq
 71fc7dea,shouldleanatcovercondition
+71fccd1d,m_room
 71ff06c0,add_state
 720063db,checkifshouldupdateattackerstatusplayback
 720668ee,b_allow_idgun_pap
@@ -17528,6 +17537,7 @@ ffe2f24,minigame_on
 843dba81,beam_length
 843f7a41,wait_killcam_time
 84400c58,lbspin
+84405100,t_abom
 84417052,current_y
 84423b52,hit_point
 84434c7a,_stop
@@ -17752,6 +17762,7 @@ ffe2f24,minigame_on
 85c6dafa,cratename
 85c85426,bb_getlocomotionfaceenemyquadrantprevious
 85c85f24,drone_up_down_transition
+85c920d0,mdl_echo
 85d068e2,showdebugproc
 85d2792d,has_behavior_attribute
 85d363a5,managers
@@ -19092,6 +19103,7 @@ ffe2f24,minigame_on
 8fce9910,ignore_health_regen_delay
 8fd112f4,specialgrenade
 8fd385a1,spawn
+8fd3b08d,zombie_burn
 8fd40572,callbackplayerconnect
 8fd843dd,setcharacteroutfit
 8fdfe809,zbarrierpieceuseboxriselogic
@@ -22826,6 +22838,7 @@ ac0bcac5,calculatereleasetime
 ac0c0ba8,zombie_horde
 ac0e0a9e,fxinvalidlocation
 ac0e32c5,zm_gold_zones
+ac104a3d,abom_devgui
 ac112a1f,is_vehicle
 ac113739,airfollowers
 ac1193d0,scythe
@@ -23606,6 +23619,7 @@ b22c5abf,funcs
 b22c99a5,zm_trial_util
 b23197a5,weeklyacontractid
 b2355919,getanimframecount
+b23598c7,s_sign
 b235a9c3,build_trigger_from_unitrigger_stub
 b2380e6a,execdevgui
 b23a176c,dome_apex
@@ -27228,6 +27242,7 @@ ccdf8923,_colors_go_line
 cce0bcaa,_get_from_weapon
 cce374e0,player_velocity
 cce78628,process_friendly_fire_callbacks
+cce981c8,t_room
 cced2287,decayprogressmin
 ccef5c79,lui_script_menus
 ccf518ae,is_relative_team
@@ -28842,6 +28857,7 @@ d91daa69,setsharedinventoryuimodels
 d9200ec3,iconstruct
 d926e5cc,base_weapon
 d9273008,lock_evade_speed_boost
+d9273cbc,norm_dir
 d9293c18,aircraft_dustkick
 d92a4265,b_wait_one_frame
 d92c83b5,deleteondeath
@@ -30279,6 +30295,7 @@ e4210832,exit_type
 e4236d08,nudge_collision
 e424d54c,is_weapon_or_base_included
 e425bbd0,vol_lerp
+e425c762,v_turn
 e426800c,isfacingeight
 e42774d0,randomoffsetpitch
 e42923eb,good_old_style_turret_tracing
@@ -40519,6 +40536,7 @@ ffc38cdd7774e8b,season1
 3aae9e48a5a8dbd7,teama
 3aae9f48a5a8dd8a,teamb
 3aaeb048a5a8fa6d,teams
+3aaf33985d01ab9c,echo_spawn
 3ab26d39b2916e45,scripts/cp_common/challenges.gsc
 3ab29e04c2cc1d52,modehistory
 3ab300fc07c95c32,zmenablescorestreaknapalmstrike

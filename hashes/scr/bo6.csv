@@ -8863,6 +8863,7 @@ ffea772b10aee38,asmhasstate
 2b1b871d0dd8bd5d,bcfrequency
 2b1bc6fbb9ebd468,shouldstartarrival
 2b1ce5c416c1f931,onusecallback
+2b1d5239d2b0170b,stam_debug
 2b1f3bf2a8c87153,initstartpoints
 2b1fae3805bc7dcd,weaponitem
 2b20991daf847c7f,killstreak_uav
@@ -15879,6 +15880,7 @@ ffea772b10aee38,asmhasstate
 4e7a36e545ffae5f,br_respawn_enabled
 4e7c52cb7c90597f,ai_should_be_added
 4e845116817fe406,firetype
+4e8646ac142b3635,icon_id
 4e89b6c3e610930f,startintensity
 4e8bd73dd980c82f,monitorgamepadswitch
 4e8c55115a075540,missioncleared
@@ -22670,6 +22672,7 @@ ffea772b10aee38,asmhasstate
 6fcf95b23f77d232,smokelaunchpos
 6fd07b57232bb4ab,team_utility
 6fd0aded4a4d9e5d,lowestdeathcount
+6fd2b4f0f4c26f49,debug_item
 6fd336af28f0f3ab,minigunprevweaponobject
 6fd53f3c16dc6060,testorigin
 6fd58550ff53fe35,half_size
@@ -27184,6 +27187,7 @@ ffea772b10aee38,asmhasstate
 86c1e8d426f4b1ec,overrideitemcount
 86c2b3d1fa522f2b,mantle_kill
 86c327f0d1ffaca0,getplayerinstance
+86c33f97bc02340c,ulen
 86c77c4bb56e37c3,defusereward
 86c94ff0aa9ff93c,location2
 86c952f0aa9ffe55,location1
@@ -43425,6 +43429,7 @@ d97b95638a428698,bot_abort_tactical_goal
 d97c4f30e57dac4b,bot_out_of_combat_time
 d97c8c2248e59a75,waitandstartscorepolling
 d97da8961aae1aea,prevstruct
+d97e5fd53efb5da3,a_anim
 d97ee8a6efed5e65,reinforcesites
 d98155616fab3b9c,attachmentoffset
 d9815e26cebb630a,spawnhiddenagent

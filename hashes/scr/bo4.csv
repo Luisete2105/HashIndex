@@ -8577,6 +8577,7 @@ ffe2f24,minigame_on
 3ac87d6b,end_and_clean_patrol_behaviors
 3acb14c0,ksdartexplosionmagnitude
 3acb1e73,shuttingdown
+3acc3ac3,v_open
 3acd02fa,zombie_bartear_offset_fx_horizontle
 3ace71a4,tooclose
 3acea36f,initteamchallenges
@@ -18631,6 +18632,7 @@ ffe2f24,minigame_on
 7ec59819,powerup_zombie_grab_trigger_cleanup
 7ec79853,toenemyvec
 7ecc8ddc,is_same_trigger
+7ecf0d18,t_beam
 7ed0ab20,isthrowngrenade
 7ed1e09e,e_linkto
 7ed286d0,shake_time
@@ -33652,6 +33654,7 @@ e390e628,_team1_num
 e391364a,classmap
 e392a2a6,_exploder_ids
 e393677a,mp_seaside_fx
+e3945e9a,b_spun
 e39674d4,nolives
 e39b9b61,max_width
 e39c5296,is_headshot
